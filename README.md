@@ -44,11 +44,3 @@ This project focuses on analyzing car sales data to uncover significant trends a
 ## Conclusion
 
 This project demonstrates how data analysis and visualization can provide valuable insights into car sales trends, helping to make informed business decisions. By understanding sales performance across different regions and demographics, automotive companies can better tailor their strategies to meet market demands.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version includes the information about your Python notebook and outlines how it was used in the analysis. You can further customize it as needed!
